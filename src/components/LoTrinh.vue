@@ -77,28 +77,28 @@
                                     <div class="card-body d-flex align-items-center">
                                         <div class="avatar-sm flex-shrink-0 me-3">
                                             <div class="avatar-title bg-secondary-subtle text-secondary rounded-circle fs-18">
-                                                <i class="ri-briefcase-2-line"></i>
+                                                <i data-feather="briefcase" class="ri-briefcase-2-line"></i>
                                             </div>
                                         </div>
-                                        <h5 class="fs-15 lh-base mb-0">Search Over <span class="text-secondary fw-semibold">1,00,000+</span> Jobs</h5>
+                                        <h5 class="fs-15 lh-base mb-0">Điểm số <br> <span class="text-secondary fw-semibold">A+</span> luôn</h5>
                                     </div>
                                 </div>
 
                                 <div class="card feedback-box">
                                     <div class="card-body d-flex shadow-lg">
                                         <div class="flex-shrink-0 me-3">
-                                            <img src="../assets/images/users/avatar-10.jpg" alt="" class="avatar-sm rounded-circle">
+                                            <img src="../assets/images/fly.png" alt="" class="avatar-sm rounded-circle">
                                         </div>
                                         <div class="flex-grow-1">
-                                            <h5 class="fs-14 lh-base mb-0">Tonya Noble</h5>
-                                            <p class="text-muted fs-11 mb-1">UI/UX Designer</p>
-                                            <div class="text-warning">
-                                                <i class="ri-star-s-fill"></i>
-                                                <i class="ri-star-s-fill"></i>
-                                                <i class="ri-star-s-fill"></i>
-                                                <i class="ri-star-s-fill"></i>
-                                                <i class="ri-star-s-line"></i>
-                                            </div>
+                                            <h5 class="fs-14 lh-base mb-0">English</h5>
+                                            <p class="text-muted fs-11 mb-1">Mơ Ước</p>
+                                            <!-- <div class="text-warning">
+                                                <i data-feather="star" class="ri-star-s-fill"></i>
+                                                <i data-feather="star" class="ri-star-s-fill"></i>
+                                                <i data-feather="star" class="ri-star-s-fill"></i>
+                                                <i data-feather="star" class="ri-star-s-fill"></i>
+                                                <i data-feather="star" class="ri-star-s-line"></i>
+                                            </div> -->
                                         </div>
                                     </div>
                                 </div>
@@ -107,51 +107,51 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="text-muted">
-                                <h1 class="mb-3 lh-base">Find Your <span class="text-primary">Dream Job</span> in One Place</h1>
-                                <p class="ff-secondary fs-16 mb-2">The first step in finding your <b>dream job </b> is deciding where to look for first-hand insight. Contact professionals who are already working in industries or positions that interest you.</p>
-                                <p class="ff-secondary fs-16">Schedule informational interviews and phone calls or ask for the opportunity to shadow them on the job.</p>
+                                <h1 class="mb-3 lh-base">Đơn giản hóa thực hiện<span class="text-primary"> Điểm số</span> của bạn</h1>
+                                <p class="ff-secondary fs-16 mb-2">Học tiếng Anh giúp học sinh mở rộng kiến thức, phát triển kỹ năng giao tiếp và tạo nền tảng cho cơ hội học tập, nghề nghiệp trong tương lai. Đây là bước chuẩn bị cần thiết cho hội nhập quốc tế.</p>
+                                <p class="ff-secondary fs-16">Chúng tôi cam kết bạn sẽ cải thiện kỹ năng tiếng Anh rõ rệt, tự tin giao tiếp và đạt được những kết quả vượt mong đợi. Chỉ cần kiên trì, thành công chắc chắn nằm trong tầm tay bạn!.</p>
 
                                 <div class="vstack gap-2 mb-4 pb-1">
                                     <div class="d-flex align-items-center">
                                         <div class="flex-shrink-0 me-2">
                                             <div class="avatar-xs icon-effect">
                                                 <div class="avatar-title bg-transparent text-success rounded-circle h2">
-                                                    <i class="ri-check-fill"></i>
+                                                    <i data-feather="check" class="ri-check-fill"></i>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="flex-grow-1">
-                                            <p class="mb-0">Dynamic Content</p>
+                                            <p class="mb-0">Mở rộng kiến thức</p>
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
                                         <div class="flex-shrink-0 me-2">
                                             <div class="avatar-xs icon-effect">
                                                 <div class="avatar-title bg-transparent text-success rounded-circle h2">
-                                                    <i class="ri-check-fill"></i>
+                                                    <i data-feather="check" class="ri-check-fill"></i>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="flex-grow-1">
-                                            <p class="mb-0">Setup plugin's information.</p>
+                                            <p class="mb-0">Phát triển kỹ năng.</p>
                                         </div>
                                     </div>
                                     <div class="d-flex align-items-center">
                                         <div class="flex-shrink-0 me-2">
                                             <div class="avatar-xs icon-effect">
                                                 <div class="avatar-title bg-transparent text-success rounded-circle h2">
-                                                    <i class="ri-check-fill"></i>
+                                                    <i data-feather="check" class="ri-check-fill"></i>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="flex-grow-1">
-                                            <p class="mb-0">Themes customization information</p>
+                                            <p class="mb-0">Tạo cơ hội tương lai</p>
                                         </div>
                                     </div>
                                 </div>
 
                                 <div>
-                                    <a href="#!" class="btn btn-primary">Find Your Jobs <i class="ri-arrow-right-line align-bottom ms-1"></i></a>
+                                    <a href="#!" class="btn btn-primary">Đăng ký học thử miễn phí <i class="ri-arrow-right-line align-bottom ms-1"></i></a>
                                 </div>
                             </div>
                         </div>

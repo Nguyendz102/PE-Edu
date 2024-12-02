@@ -2,7 +2,7 @@
     <nav class="navbar navbar-expand-lg navbar-landing fixed-top job-navbar" id="navbar">
         <div class="container-fluid custom-container">
             <a class="navbar-brand" href="index.html">
-                <h1>Pthu</h1>
+                <h1>PEedu</h1>
                 <!-- <img src="../assets/images/logo-dark.png" class="card-logo card-logo-dark" alt="logo dark" height="17">
                 <img src="../assets/images/logo-light.png" class="card-logo card-logo-light" alt="logo light"
                     height="17"> -->
@@ -27,15 +27,15 @@
                         <a class="nav-link" href="#findJob">Kết quả</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#candidates">Kĩ năng</a>
+                        <a class="nav-link" href="#candidates">Đội ngũ</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#blog">Feedback</a>
+                        <a class="nav-link" href="#blog">Blog</a>
                     </li>
                 </ul>
                 <div class="">
-                    <a href="auth-signin-basic.html" class="btn btn-soft-primary"><i data-feather="user"
-                            class="ri-user-3-line align-bottom me-1" style="width: 20px; height:20px;"></i> Login & Register</a>
+                    <a href="auth-signin-basic.html" class="btn btn-soft-primary"><i data-feather="book-open"
+                            class="ri-user-3-line align-bottom me-1" style="width: 20px; height:20px;"></i> Đăng ký</a>
                 </div>
             </div>
         </div>
