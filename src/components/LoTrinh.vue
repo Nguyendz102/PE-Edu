@@ -4,61 +4,47 @@
                     <div class="row justify-content-center">
                         <div class="col-lg-8">
                             <div class="text-center mb-5">
-                                <h1 class="mb-3 ff-secondary fw-semibold lh-base"><span class="text-primary">Lộ Trình</span> chinh phục bài thi IELTS</h1>
-                                <p class="text-muted">Cô giáo Thu Phương khóa học IELTS của Pthu English đều giàu kinh nghiệm giảng dạy và có thành tích cao, luôn đồng hành cùng bạn trên hành trình "đột phá" giới hạn bản thân..</p>
+                                <h1 class="mb-3 ff-secondary fw-semibold lh-base"><span class="text-primary">Khóa học</span> bao gồm các cấp độ</h1>
+                                <p class="text-muted">Giáo viên chuyên nghiệp kết hợp cùng phương pháp giảng dạy hiệu quả giúp học sinh phát huy tối đa tiềm năng, nâng cao hiệu quả học tập và sự yêu thích đối với môn học</p>
                             </div>
                         </div>
                         <!-- end col -->
                     </div>
                     <!--end row-->
                     <div class="row">
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                             <div class="card shadow-lg">
                                 <div class="card-body p-4">
                                     <h1 class="fw-bold display-5 ff-secondary mb-4 text-success position-relative">
                                         <div class="job-icon-effect"></div>
                                         <span>1</span>
                                     </h1>
-                                    <h6 class="fs-17 mb-2">TIẾNG ANH TOÀN DIỆN</h6>
-                                    <p class="text-muted mb-0 fs-15">Xây dựng nền tảng tiếng Anh
-                                        Luyện ngữ pháp chuyên sâu.</p>
+                                    <h6 class="fs-17 mb-2">FOUNDATION LEVEL</h6>
+                                    <p class="text-muted mb-0 fs-15">Xây dựng nền tảng vững chắc với từ vựng và ngữ pháp cơ bản.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                             <div class="card shadow-none">
                                 <div class="card-body p-4">
                                     <h1 class="fw-bold display-5 ff-secondary mb-4 text-success position-relative">
                                         <div class="job-icon-effect"></div>
                                         <span>2</span>
                                     </h1>
-                                    <h6 class="fs-17 mb-2">IELTS 2.5 - 3.5</h6>
-                                    <p class="text-muted mb-0 fs-15">Chuyển giao giữa học tiếng Anh, truyền thống sang 4 kĩ năng của IELTS.</p>
+                                    <h6 class="fs-17 mb-2">INTERNMIDIATE LEVEL</h6>
+                                    <p class="text-muted mb-0 fs-15">Phát triển khả năng nghe - đọc - hiểu và giao tiếp ngôn ngữ cơ bản.</p>
                                 </div>
                             </div>
                         </div>
-                        <div class="col-lg-3 col-md-6">
+                        <div class="col-lg-4 col-md-4">
                             <div class="card shadow-none">
                                 <div class="card-body p-4">
                                     <h1 class="fw-bold display-5 ff-secondary mb-4 text-success position-relative">
                                         <div class="job-icon-effect"></div>
                                         <span>3</span>
                                     </h1>
-
-                                    <h6 class="fs-17 mb-2">IELTS 3.5 - 4.5</h6>
-                                    <p class="text-muted mb-0 fs-15">Làm quen với IELTS, học đều 4 kỹ năng, nâng cao ngữ pháp.</p>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-lg-3 col-md-6">
-                            <div class="card shadow-none">
-                                <div class="card-body p-4">
-                                    <h1 class="fw-bold display-5 ff-secondary mb-4 text-success position-relative">
-                                        <div class="job-icon-effect"></div>
-                                        <span>4</span>
-                                    </h1>
-                                    <h6 class="fs-17 mb-2">Bứt Phá</h6>
-                                    <p class="text-muted mb-0 fs-15">Nâng cấp từ vựng & diễn đạt ý tường cho các chủ đề. Luyện đề, diễn đạt ngôn ngữ trơn tru, trôi chảy.</p>
+                                    <h6 class="fs-17 mb-2">ADVANCED LEVEL</h6>
+                                    <p class="text-muted mb-0 fs-15">Thực hành với các bài nghe - đọc và giao tiếp nâng cao theo chủ đề.</p>
                                 </div>
                             </div>
                         </div>

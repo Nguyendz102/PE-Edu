@@ -35,7 +35,7 @@
                 </ul>
                 <div class="">
                     <a href="auth-signin-basic.html" class="btn btn-soft-primary"><i data-feather="book-open"
-                            class="ri-user-3-line align-bottom me-1" style="width: 20px; height:20px;"></i> Đăng ký</a>
+                            class="ri-user-3-line align-bottom me-1" style="width: 20px; height:20px;"></i> Học thử miễn phí</a>
                 </div>
             </div>
         </div>
